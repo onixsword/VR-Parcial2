@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e24831d1af74115468506b10ff7498b0, type: 3}
+  m_Name: Rainbow
+  m_EditorClassIdentifier: 
+  speed: 3
+  timeToDie: 3
+  particles: {fileID: 96788062260357458, guid: c5463bf03b541e14bac7f2370547efbb, type: 2}
+  doesExplode: 1
+  explotion: {fileID: 11400000, guid: b496c3e3a105e854c8cf39f8a5767001, type: 2}
